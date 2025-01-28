@@ -1,4 +1,4 @@
-## Duplicate_Question_Pairs Detection App
+# Duplicate_Question_Pairs Detection App
 - Duplicate Question Pairs detection is a crucial task in various domains, including academia, content creation, and software development. This application leverages natural language processing (NLP) techniques and machine learning to determine whether two input sentences have same meaning or not. 
 
 # Features
